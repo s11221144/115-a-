@@ -21,3 +21,7 @@ aaaa
 ___
 
 [google](https://www.google.com/?hl=zh_TW&zx=1789970681265)
+```python
+print("hello")
+```
+![NKUST](nkust.jpg "高科大")
