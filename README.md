@@ -24,4 +24,4 @@ ___
 ```python
 print("hello")
 ```
-![NKUST](nkust.jpg "高科大")
+![NKUST](nkust.png "高科大")
